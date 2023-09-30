@@ -1,0 +1,53 @@
+Please enter between 1-4 based on the operation you want to perform from option below:
+option 1: Save List of cars of a given brand
+option 2: list of cars of a given model that have been in use for more than n years
+option 3: List of cars of a given year of manufacture, the price of which is higher than the specified one
+option 4: Exit the menu
+1
+Please enter between 1-4 based on the make you want to select from option below:
+option 1: Mercedes-Benz
+option 2: Audi
+option 3: Honda
+option 4: Volkswagen
+
+1
+Thank you for entering your choice. You entered option: 1
+The data has been entered into the file at path: /Users/apple/Desktop/ListofCars.txt
+Do you want to select another option? - select y or n
+y
+Please enter between 1-4 based on the operation you want to perform from option below:
+option 1: Save List of cars of a given brand
+option 2: list of cars of a given model that have been in use for more than n years
+option 3: List of cars of a given year of manufacture, the price of which is higher than the specified one
+option 4: Exit the menu
+2
+Please enter between 1-5 based on the make you want to select from option below:
+option 1: A-Class
+option 2: A3
+option 3: A5
+option 4: Accord
+option 5: Accord Hybrdi
+
+4
+Thank you for entering your choice. You entered option: 4
+Enter number of year for which you want to enter:
+3
+The data has been entered into the file at path: /Users/apple/Desktop/List_by_year.txt
+Do you want to select another option? - select y or n
+y
+Please enter between 1-4 based on the operation you want to perform from option below:
+option 1: Save List of cars of a given brand
+option 2: list of cars of a given model that have been in use for more than n years
+option 3: List of cars of a given year of manufacture, the price of which is higher than the specified one
+option 4: Exit the menu
+3
+Enter year for which you want to check the data:
+Please enter only a whole number
+1998
+Enter a price for which you want to enter:
+Please enter either whole number or decimals without comma
+25
+The data has been entered into the file at path: /Users/apple/Desktop/List_by_price.txt
+Do you want to select another option? - select y or n
+n
+You selected that you do not want to continue. Exiting the program
