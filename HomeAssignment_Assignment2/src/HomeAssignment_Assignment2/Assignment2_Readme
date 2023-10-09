@@ -15,13 +15,13 @@ It creates a new ‘.txt’ file if the file is not already present.
 
 ## Valid Data Set
 
-Id	Make	Model	Year	Colour	Price	Registration number
-1	Mercedes-Benz	A-class	1998	Blue	25000	reg-abc123
-2	Audi	A3	2014	Blue	895000	reg-asd2121
-3	Audi	A5	2008	Black	89000	reg-456gfh
-4	Honda	Accord	2008	Red	465000	reg-567ytr
-5	Honda	Accord Hybrid	1998	White	789000	reg-1234edrf
-6	Volkswagen	Areton	2021	Blue	456000	reg-erfd4567
+Id   Make	     Model	     Year	Colour	Price	Registration number
+1    Mercedes benz   A-class         1998	Blue	25000	reg-abc123
+2    Audi	     A3	             2014	Blue	895000	reg-asd2121
+3    Audi	     A5	             2008	Black	89000	reg-456gfh
+4    Honda	     Accord	     2008	Red	465000	reg-567ytr
+5    Honda	     Accord Hybrid.  1998	White	789000	reg-1234edrf
+6    Volkswagen	     Areton	     2021	Blue	456000	reg-erfd4567
 						
 
 		
