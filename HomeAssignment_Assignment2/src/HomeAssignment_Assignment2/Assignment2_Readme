@@ -1,0 +1,44 @@
+# Home Assignment 2
+
+The project displays 4 options to user and asks for user input based on action it wants to perform. The input asked can be - price of car, make, model name, number of years or year. 
+
+Based on input provided by user, the code filters the cars from the list and prints to .txt file with names :
+
+ListofCars.txt —> list of cars of specific make entered by user
+
+List_by_price.txt —> list of cars of same year and price greater than entered by user.
+
+List_by_year.txt —> list of cars of same model which have been in use for more than year as entered by user
+
+It creates a new ‘.txt’ file if the file is not already present.
+## Valid Data Set
+
+						
+Id	Make	Model	Year	Colour	Price	Registration number
+1	Mercedes-Benz	A-class	1998	Blue	25000	reg-abc123
+2	Audi	A3	2014	Blue	895000	reg-asd2121
+3	Audi	A5	2008	Black	89000	reg-456gfh
+4	Honda	Accord	2008	Red	465000	reg-567ytr
+5	Honda	Accord Hybrid	1998	White	789000	reg-1234edrf
+6	Volkswagen	Areton	2021	Blue	456000	reg-erfd4567
+						
+
+		
+## Output Files
+
+There are two output files included: 
+a. Assignment2_PositiveFlow - Output when user enters valid options in the choices displayed to him.
+
+b. Assignment2_NegativeFlow - Output when user enters invalid data or choices other than provided to the user.
+
+
+## System Dependency
+
+The programme creates the text files at location specified below :
+
+“/users/apple/Desktop/“
+
+If the text is required to be created at another location, the path will need to be changed accordingly.
+The path is defined in class named “ HomeAssignment_Assignment2” with name of variable “pathname”.
+
+
